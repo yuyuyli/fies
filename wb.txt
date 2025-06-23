@@ -1,0 +1,3 @@
+http://about.html
+http://course.html
+http://contact.html
